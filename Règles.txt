@@ -1,3 +1,0 @@
-Pas de framework, juste du HTML, CSS, PHP pur.
-Pas de CMS (Wordpress, etc...).
-Une BDD, peut-être du JavaScript (pur).
